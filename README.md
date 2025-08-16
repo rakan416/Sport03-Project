@@ -17,13 +17,13 @@ Follow these steps to get started with **Sport03**:
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/username/Sport03.git
+   git clone https://github.com/rakan416/Sport03-Project.git
    ```
 
 2. **Navigate to the project directory**
 
    ```bash
-   cd Sport03
+   cd YOUR_PATH/Sport03-Project
    ```
 
 3. **Install dependencies (optional, if a requirements.txt exists)**
