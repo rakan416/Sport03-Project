@@ -1,0 +1,34 @@
+Defensive
+Marking:kemampuan pemain dalam menandai lawan.
+Standing Tackle:kemampuan pemain dalam melakukan tackle saat berdiri.
+Sliding Tackle:kemampuan pemain dalam melakukan tackle dengan slide.
+Positioning:kemampuan pemain dalam menempatkan diri dengan baik di lapangan.
+Interceptions:kemampuan pemain dalam mengintersep umpan lawan.
+
+Offensive
+Crossing:kemampuan pemain dalam mengirim umpan dari sisi lapangan.
+Finishing:kemampuan pemain dalam menyelesaikan peluang menjadi gol.
+Heading Accuracy:kemampuan pemain dalam mengarahkan bola dengan kepala.
+Short Passing:kemampuan pemain dalam memberikan umpan pendek.
+Volleys:kemampuan pemain dalam menendang bola yang belum jatuh ke tanah.
+Dribbling:kemampuan pemain dalam menggiring bola melewati lawan.
+Curve:kemampuan pemain dalam memberi efek pada umpan atau tendangan.
+Freekick Accuracy:kemampuan pemain dalam mengeksekusi tendangan bebas dengan tepat.
+Long Passing:kemampuan pemain dalam memberikan umpan panjang.
+Ball Control:kemampuan pemain dalam mengendalikan bola.
+Penalties:kemampuan pemain dalam mengeksekusi tendangan penalti.
+
+Fisik & Mental
+Acceleration:kecepatan pemain dalam mencapai kecepatan maksimum.
+Sprint Speed:kecepatan pemain dalam berlari maksimum.
+Agility:kemampuan pemain dalam melakukan pergerakan dengan cepat dan lincah.
+Reactions:kemampuan pemain dalam bereaksi secara cepat terhadap situasi permainan.
+Balance:kemampuan pemain dalam menjaga keseimbangan tubuh saat bergerak.
+Shot Power:kekuatan tendangan pemain.
+Jumping:kemampuan pemain untuk melompat tinggi.
+Stamina:tingkat kelelahan pemain selama pertandingan.
+Strength:kekuatan fisik pemain dalam bertahan atau bersaing fisik.
+Long Shots:kemampuan pemain dalam melakukan tendangan jarak jauh.
+Aggression:tingkat agresivitas pemain dalam mengejar bola atau bertahan.
+Vision:kemampuan pemain dalam melihat dan merespon situasi di lapangan.
+Composure:tingkat ketenangan dan konsentrasi pemain dalam situasi tekanan.

@@ -1,0 +1,2 @@
+Nama,Weak Foot,Skill Movement,Crossing,Finishing,Heading Accuracy,Short Passing,Volleys,Dribbling,Curve,Freekick Accuracy,Long Passing,Ball Control,Acceleration,Sprint Speed,Agility,Reactions,Balance,Shot Power,Jumping,Stamina,Strength,Long Shots,Aggression,Interceptions,Positioning,Vision,Penalties,Composure,Marking,Standing Tackle,Sliding Tackle]
+Prakentol Legowo,1.46,3.9,18,74,18,73,18,18,18,18,18,18,90,90,90,90,90,90,90,90,90,90,90,55,55,90,18,90,55,55,55

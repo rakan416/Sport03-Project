@@ -1,0 +1,5 @@
+Teknis,Taktis,Fisik,Spesifikasi Posisi
+Fisik,Teknis,Taktis,Spesifikasi Posisi
+Taktis,Fisik,Spesifikasi Posisi,Teknis
+Taktis,Spesifikasi Posisi,Fisik,Teknis
+Fisik,Spesifikasi Posisi,Teknis,Taktis

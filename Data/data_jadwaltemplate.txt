@@ -1,0 +1,8 @@
+3X PER WEEK
+Monday,Wednesday,Friday
+
+2X PER WEEK
+Monday,Tuesday
+
+4X PER WEEK
+Monday,Tuesday,Thursday,Saturday
